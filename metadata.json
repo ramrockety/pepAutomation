@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "path": "./codes/code1",
+            "module": "Data Structures And Algorithms",
+            "lecture": "Patterns",
+            "title": "Pattern 8"
+        },
+        {
+            "path": "./codes/code2",
+            "module": "Data Structures And Algorithms",
+            "lecture": "Recursion",
+            "title": "Print Kpc"
+        },
+        {
+            "path": "./codes/code3",
+            "module": "Data Structures And Algorithms",
+            "lecture": "Dynamic Programming and Greedy",
+            "title": "Count Binary Strings"
+        },
+        {
+            "path": "./codes/code4",
+            "module": "Data Structures And Algorithms",
+            "lecture": "2d Arrays",
+            "title": "Diagonal Traversal"
+        }
+    ]
+}
